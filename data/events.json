@@ -1,0 +1,1 @@
+[null,{"name":"Iniciar","temp":"","event-type":"1","_id":"OgNif","actions":[{"info":"0","find":"740636682654580868","storage":"1","varName":"channel","name":"Find Channel"},{"channel":"5","varName":"channel","message":"Bot Iniciado","storage":"0","varName2":"","name":"Send Message"}]}]
